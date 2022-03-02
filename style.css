@@ -1,0 +1,178 @@
+.container {
+  background: rgba(30, 144, 255, 0.5);
+  display: flex;
+  flex-direction: column;
+}
+
+.rectangle {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.secction1 {
+  display: flex;
+  background: white;
+  border-radius: 12px;
+  height: 80px;
+  width: 80%;
+  margin-top: 50px;
+}
+.p-logo {
+  margin-left: 70px;
+  font-style: normal;
+  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 33.33%;
+}
+.group1 {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  width: 33.33%;
+}
+.p-home {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.p-illus {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.p-contact {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  width: 33.33%;
+}
+.frame3 {
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  background: white;
+  border-radius: 5px;
+  border-color: #4443d0;
+  align-self: center;
+}
+.frame2 {
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  background: #4443d0;
+  border-radius: 5px;
+  border-color: #4443d0;
+  align-self: center;
+}
+.sing-up {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4443d0;
+  align-self: center;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.sing-in {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  align-self: center;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.secction2 {
+  display: flex;
+}
+.first-text {
+  font-size: 60px;
+  margin-top: 250px;
+  margin-left: 180px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+span {
+  color: #4443d0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.second-text {
+  font-size: 20px;
+  margin-left: 180px;
+  margin-top: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.end-section {
+  margin-left: 180px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.end {
+  color: #00000080;
+  margin-top: 80px;
+  margin-bottom: 10px;
+  margin-left: 7px;
+}
+input {
+  border-radius: 5px;
+  height: 30px;
+  width: 350px;
+  border: 1px solid #2a92f9;
+  margin-top: 0px;
+}
+.final-button {
+  margin-top: 20px;
+  margin-bottom: 175px;
+}
+.button3 {
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  background: #4443d0;
+  border-radius: 5px;
+  border-color: #4443d0;
+  align-self: center;
+}
+img {
+  position: absolute;
+  left: 31.61%;
+  right: 9.02%;
+  top: -1.94%;
+  bottom: -6.25%;
+}
